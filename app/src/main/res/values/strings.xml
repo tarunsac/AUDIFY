@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audify</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="invalid_url">Invalid Url</string>
+</resources>
